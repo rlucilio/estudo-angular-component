@@ -1,2 +1,24 @@
 <app-component-test></app-component-test>
 <app-component-test-manual></app-component-test-manual>
+
+<button (click)="enablePeekABooComponent = false">Destroy componente</button>
+<button (click)="!enablePeekABooComponent ? enablePeekABooComponent = true : title = title + '1'">Create componente</button>
+<ng-container *ngIf="enablePeekABooComponent">
+    <app-peek-aboo-component
+    appSpy
+    [value]="title">
+    </app-peek-aboo-component>
+</ng-container>
+
+<button (click)="count = count + 1">Inc</button>
+<app-counter-component [count]="count" appSpy></app-counter-component>
+
+
+<input type="text" placeholder="Power" [(ngModel)]="power">
+<input type="text" placeholder="Hero.name" [(ngModel)]="hero.name">
+<app-on-changes
+    [power]="power"
+    [hero]="hero"
+></app-on-changes>
+
+<app-after-view></app-after-view>
