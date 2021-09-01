@@ -1,27 +1,73 @@
-# AngularComponent
+<h1  align="center">
+	<img  width="100%"  src="https://i.imgur.com/6PxW4UH.gif"/>
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+<h3  align="center">🖥️ Estudo angular components</h3>
+<p  align="center">Projeto tem como base praticar os meus conhecimentos do angular components</p>
 
-## Development server
+<p  align="center">
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/top/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p  align="center"> 
+	<a  href="#notebook_with_decorative_cover-stack">Stack</a> |
+	<a  href="#white_check_mark-funcionalidades">Funcionalidades</a> |
+	<a  href="#computer-como-rodar">Como rodar</a> |
+	<a  href="#man_technologist-autor">Autor</a>
+</p>
 
-## Code scaffolding
+<p align="center">
+<img  src="https://i.pinimg.com/originals/08/75/96/087596fa8e76cdb3ef0a87a38f61611f.png"/>
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## :notebook_with_decorative_cover: Stack
+As seguintes ferramentas foram usadas na construção do projeto:
+<!--ts-->
+- 📌 [TypeScript](https://www.typescriptlang.org/)
+- 📌 [Angular](https://angular.io/)
+<!--te-->
 
-## Build
+## :white_check_mark: Funcionalidades
+- [x] Terminar documentação
+## :computer: Como Rodar
+### Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+### 🎲 Rodando
+```bash
+# Clone este repositório
+$ git clone https://github.com/rlucilio/estudo-angular-component.git
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd estudo-angular-component
 
-## Running unit tests
+# Instale as dependências
+$ npm install
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Execute a aplicação em modo de desenvolvimento
+$ npm run serve
 
-## Running end-to-end tests
+# O servidor inciará na porta:4200 - acesse <http://localhost:4200>
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## :man_technologist: Autor
+Renan Lucilio 💚  Code
 
-## Further help
+Entre em contato!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p align="center">
+<a href="mailto:renanlucilio@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/renan-lucilio-521ba513a">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/rlucilio">
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
