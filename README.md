@@ -19,9 +19,6 @@
 	<a  href="#man_technologist-autor">Autor</a>
 </p>
 
-<p align="center">
-<img  src="https://i.pinimg.com/originals/08/75/96/087596fa8e76cdb3ef0a87a38f61611f.png"/>
-</p>
 
 ## :notebook_with_decorative_cover: Stack
 As seguintes ferramentas foram usadas na construção do projeto:
